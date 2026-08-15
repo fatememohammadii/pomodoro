@@ -1,5 +1,4 @@
-# pomodoro
-A simple and user-friendly Pomodoro Timer built with Python to help improve focus, productivity, and time management through structured work and break sessions.
+
 # 🍅 Pomodoro Timer
 
 A simple and user-friendly **Pomodoro Timer** designed to help improve focus, productivity, and time management by dividing work into focused sessions followed by short breaks.
